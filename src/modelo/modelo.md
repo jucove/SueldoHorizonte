@@ -1,1 +1,0 @@
-# Capa modelo del proyecto
